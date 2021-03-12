@@ -1,2 +1,4 @@
 # 0x1D. C - Binary trees
-update
+## Task 0 New node
+## Task 1 Insert left
+
